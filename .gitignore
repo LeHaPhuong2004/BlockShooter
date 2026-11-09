@@ -2,6 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+<<<<<<< HEAD
+=======
+# Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
+# See: https://github.com/github/gitignore/tree/main/Global
+#
+>>>>>>> 72585e4e5f99d6bf5530a49e7a395cf7e3871576
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -43,6 +49,10 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+<<<<<<< HEAD
+=======
+*.slnx
+>>>>>>> 72585e4e5f99d6bf5530a49e7a395cf7e3871576
 *.suo
 *.tmp
 *.user
@@ -98,7 +108,15 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
+<<<<<<< HEAD
 # Skip file Firebase SDK 
 *FirebaseCppApp*
 /Assets/Firebase/
 Assets/Fonts/*.asset
+=======
+# UI Toolkit auto generated files
+/UIElementsSchema/
+
+# Auto-generated cache in Assets folder
+/[Aa]ssets/[Ss]ceneDependencyCache*
+>>>>>>> 72585e4e5f99d6bf5530a49e7a395cf7e3871576
