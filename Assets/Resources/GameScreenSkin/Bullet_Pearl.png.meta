@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 5f5bc41b740a7104a8f57103dae6b4c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8949896221504161438
+    second: Bullet_Pearl_0
+  - first:
+      213: -1915591521896523389
+    second: Bullet_Pearl_1
+  - first:
+      213: -407431378959019125
+    second: Bullet_Pearl_2
+  - first:
+      213: -4400949620275358102
+    second: Bullet_Pearl_3
+  - first:
+      213: 8106089599259761131
+    second: Bullet_Pearl_4
+  - first:
+      213: 6266867135662685132
+    second: Bullet_Pearl_5
+  - first:
+      213: -8160164101560902794
+    second: Bullet_Pearl_6
+  - first:
+      213: 2754433674808141782
+    second: Bullet_Pearl_7
+  - first:
+      213: -7096221175400629620
+    second: Bullet_Pearl_8
+  - first:
+      213: -8377424985717112034
+    second: Bullet_Pearl_9
+  - first:
+      213: 705907915748551646
+    second: Bullet_Pearl_10
+  - first:
+      213: 3432161998438054559
+    second: Bullet_Pearl_11
+  - first:
+      213: 2774327400975439948
+    second: Bullet_Pearl_12
+  - first:
+      213: 2496717385538700136
+    second: Bullet_Pearl_13
+  - first:
+      213: -768644930255018085
+    second: Bullet_Pearl_14
+  - first:
+      213: 8662430097456233395
+    second: Bullet_Pearl_15
+  - first:
+      213: -8964314306838361548
+    second: Bullet_Pearl_16
+  - first:
+      213: 7947200593977279204
+    second: Bullet_Pearl_17
+  - first:
+      213: 3026243509664502678
+    second: Bullet_Pearl_18
+  - first:
+      213: -5583007990912929301
+    second: Bullet_Pearl_19
+  - first:
+      213: 7719353074467381503
+    second: Bullet_Pearl_20
+  - first:
+      213: -7414884230648704029
+    second: Bullet_Pearl_21
+  - first:
+      213: -8458656129517785483
+    second: Bullet_Pearl_22
+  - first:
+      213: 7499256724227980111
+    second: Bullet_Pearl_23
+  - first:
+      213: -7565786384692241234
+    second: Bullet_Pearl_24
+  - first:
+      213: -7469314354694155853
+    second: Bullet_Pearl_25
+  - first:
+      213: -4901287572320542790
+    second: Bullet_Pearl_26
+  - first:
+      213: 7383076502852977582
+    second: Bullet_Pearl_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1061.9489
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet_Pearl_0
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1068
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96cd53e13b643c70800000000000000
+      internalID: 8949896221504161438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1060
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3899b9af8a37a65e0800000000000000
+      internalID: -1915591521896523389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1046
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83dccac153885af0800000000000000
+      internalID: -407431378959019125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 967
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d81933aface2c0800000000000000
+      internalID: -4400949620275358102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 968
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9dd59ea8d9e7070800000000000000
+      internalID: 8106089599259761131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 984
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7eb3e47268f650800000000000000
+      internalID: 6266867135662685132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1020
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5199ebf541ce80800000000000000
+      internalID: -8160164101560902794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1213
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7205865d6b93620800000000000000
+      internalID: 2754433674808141782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 939
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af3a83078258d90800000000000000
+      internalID: -7096221175400629620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 891
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1389d96c586dbb80800000000000000
+      internalID: -8377424985717112034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_10
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb24526283ebc900800000000000000
+      internalID: 705907915748551646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 897
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9abe78372d71af20800000000000000
+      internalID: 3432161998438054559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 899
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4816c97214608620800000000000000
+      internalID: 2774327400975439948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 891
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638395eb3f16a220800000000000000
+      internalID: 2496717385538700136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 889
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97aeb522893555f0800000000000000
+      internalID: -768644930255018085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_15
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 361
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf7823742273870800000000000000
+      internalID: 8662430097456233395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 296
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a82f502ab589380800000000000000
+      internalID: -8964314306838361548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_17
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20aca85d02a4e60800000000000000
+      internalID: 7947200593977279204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_18
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 288
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693526530706ff920800000000000000
+      internalID: 3026243509664502678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b773ffcb2582b0800000000000000
+      internalID: -5583007990912929301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 237
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a27be8b6a02b60800000000000000
+      internalID: 7719353074467381503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 245
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d985f31a091990800000000000000
+      internalID: -7414884230648704029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_22
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 218
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e69eae011dc9a80800000000000000
+      internalID: -8458656129517785483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_23
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 224
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b71170246b21860800000000000000
+      internalID: 7499256724227980111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac9eed4e5de00790800000000000000
+      internalID: -7565786384692241234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 230
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b19ab42b2aa75890800000000000000
+      internalID: -7469314354694155853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 210
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf1ccdcbe02bfbb0800000000000000
+      internalID: -4901287572320542790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Pearl_27
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 205
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c51e46f4f57660800000000000000
+      internalID: 7383076502852977582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bullet_Pearl_0: 8949896221504161438
+      Bullet_Pearl_1: -1915591521896523389
+      Bullet_Pearl_10: 705907915748551646
+      Bullet_Pearl_11: 3432161998438054559
+      Bullet_Pearl_12: 2774327400975439948
+      Bullet_Pearl_13: 2496717385538700136
+      Bullet_Pearl_14: -768644930255018085
+      Bullet_Pearl_15: 8662430097456233395
+      Bullet_Pearl_16: -8964314306838361548
+      Bullet_Pearl_17: 7947200593977279204
+      Bullet_Pearl_18: 3026243509664502678
+      Bullet_Pearl_19: -5583007990912929301
+      Bullet_Pearl_2: -407431378959019125
+      Bullet_Pearl_20: 7719353074467381503
+      Bullet_Pearl_21: -7414884230648704029
+      Bullet_Pearl_22: -8458656129517785483
+      Bullet_Pearl_23: 7499256724227980111
+      Bullet_Pearl_24: -7565786384692241234
+      Bullet_Pearl_25: -7469314354694155853
+      Bullet_Pearl_26: -4901287572320542790
+      Bullet_Pearl_27: 7383076502852977582
+      Bullet_Pearl_3: -4400949620275358102
+      Bullet_Pearl_4: 8106089599259761131
+      Bullet_Pearl_5: 6266867135662685132
+      Bullet_Pearl_6: -8160164101560902794
+      Bullet_Pearl_7: 2754433674808141782
+      Bullet_Pearl_8: -7096221175400629620
+      Bullet_Pearl_9: -8377424985717112034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

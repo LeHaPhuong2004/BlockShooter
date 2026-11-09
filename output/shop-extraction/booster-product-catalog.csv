@@ -1,0 +1,6 @@
+﻿"ProductId","Title","Type","PriceVND","Coins","EachBooster","UnlimitedHeartSeconds"
+"hypertech.block.shoot.booster_pack_1","GÓI KHỞI ĐẦU","Consumable","22000","1000","4","0"
+"hypertech.block.shoot.booster_pack_2","GÓI NHỎ","Consumable","45000","6000","6","0"
+"hypertech.block.shoot.booster_pack_3","GÓI TRUNG ĐỊNH","Consumable","109000","20000","8","1800"
+"hypertech.block.shoot.booster_pack_4","GÓI LỚN","Consumable","229000","50000","10","3600"
+"hypertech.block.shoot.booster_pack_5","GÓI ĐẶC BIỆT","Consumable","399000","100000","15","7200"

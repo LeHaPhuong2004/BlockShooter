@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 4cc97bf4273e70743a7f7240ce3ec15f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1786575164243707837
+    second: Unlocked_Level_Cards_0
+  - first:
+      213: -6203117210048991210
+    second: Unlocked_Level_Cards_1
+  - first:
+      213: 3344553622432050279
+    second: Unlocked_Level_Cards_2
+  - first:
+      213: -3222470302306284282
+    second: Unlocked_Level_Cards_3
+  - first:
+      213: 6807795302081097928
+    second: Unlocked_Level_Cards_4
+  - first:
+      213: -4579285397959163594
+    second: Unlocked_Level_Cards_5
+  - first:
+      213: 5974583967145582559
+    second: Unlocked_Level_Cards_6
+  - first:
+      213: 8042282634489886628
+    second: Unlocked_Level_Cards_7
+  - first:
+      213: -910264965782406414
+    second: Unlocked_Level_Cards_8
+  - first:
+      213: -7945700049288260179
+    second: Unlocked_Level_Cards_9
+  - first:
+      213: 7377531741963507745
+    second: Unlocked_Level_Cards_10
+  - first:
+      213: -3807704001260399088
+    second: Unlocked_Level_Cards_11
+  - first:
+      213: -450769644603780915
+    second: Unlocked_Level_Cards_12
+  - first:
+      213: 5085701960865316329
+    second: Unlocked_Level_Cards_13
+  - first:
+      213: 1477824514075203199
+    second: Unlocked_Level_Cards_14
+  - first:
+      213: -7162424916697329343
+    second: Unlocked_Level_Cards_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 372
+        width: 469
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7084d65a03bc810800000000000000
+      internalID: 1786575164243707837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1015
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610fae253c91ae9a0800000000000000
+      internalID: -6203117210048991210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1005
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cee45accd3a6e20800000000000000
+      internalID: 3344553622432050279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 369
+        width: 470
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc9cb555c7743d0800000000000000
+      internalID: -3222470302306284282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fd1c02c52a7e50800000000000000
+      internalID: 6807795302081097928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 225
+        width: 439
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c281513c1370c0800000000000000
+      internalID: -4579285397959163594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 43
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfd472a67cf9e250800000000000000
+      internalID: 5974583967145582559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 173
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ff0c327deb9f60800000000000000
+      internalID: 8042282634489886628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 225
+        width: 437
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa7e0f16d61e53f0800000000000000
+      internalID: -910264965782406414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59e5e37e33bb190800000000000000
+      internalID: -7945700049288260179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 46
+        width: 174
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12857ee0802426660800000000000000
+      internalID: 7377531741963507745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 517
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165a0b8261582bc0800000000000000
+      internalID: -3807704001260399088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0dcd1856b8eb9f0800000000000000
+      internalID: -450769644603780915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 45
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed72eafcfa049640800000000000000
+      internalID: 5085701960865316329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 55
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7611d1d099428410800000000000000
+      internalID: 1477824514075203199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 19
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14159d58c74f99c90800000000000000
+      internalID: -7162424916697329343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlocked_Level_Cards_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 370
+        width: 471
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b193520c9a8a9a48b3c4564ed6bf3b7
+      internalID: -178774257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0c7df0a5b970d6468dbabf951ee8206
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Unlocked_Level_Cards_0: 1786575164243707837
+      Unlocked_Level_Cards_1: -6203117210048991210
+      Unlocked_Level_Cards_10: 7377531741963507745
+      Unlocked_Level_Cards_11: -3807704001260399088
+      Unlocked_Level_Cards_12: -450769644603780915
+      Unlocked_Level_Cards_13: 5085701960865316329
+      Unlocked_Level_Cards_14: 1477824514075203199
+      Unlocked_Level_Cards_15: -7162424916697329343
+      Unlocked_Level_Cards_16: -178774257
+      Unlocked_Level_Cards_2: 3344553622432050279
+      Unlocked_Level_Cards_3: -3222470302306284282
+      Unlocked_Level_Cards_4: 6807795302081097928
+      Unlocked_Level_Cards_5: -4579285397959163594
+      Unlocked_Level_Cards_6: 5974583967145582559
+      Unlocked_Level_Cards_7: 8042282634489886628
+      Unlocked_Level_Cards_8: -910264965782406414
+      Unlocked_Level_Cards_9: -7945700049288260179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

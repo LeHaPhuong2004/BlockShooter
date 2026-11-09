@@ -1,0 +1,65 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "color": "Blue",
+      "prompt": "Redesign the supplied blue block sprite into a brighter, shinier premium casual mobile puzzle game tile. ONE rounded SQUARE tile, perfectly front-facing orthographic, not a cube. Maintain broad flat center panel for black HP numbers to be rendered later. Cheerful vivid luminous azure BLUE (#258FFF center), saturated medium blue bevel along lower/right edge, short clean bright white curved specular streak at upper-left rim, thin cool pale-blue top edge highlight, soft glossy candy/plastic finish with subtle puffy depth. Center panel smooth and even, no extreme gradient, no dark navy shading, no center glare, no symbols, no text. Elegant polished bevel rather than thick black border. Uniform corner radius about 10% of tile width. Shape should fill 96% width and 96% height with equal 2% transparent margin on square canvas. Real transparent alpha background, no external glow or ground shadow, no debris, no perspective tilt. Clean production sprite readable at 32px, cohesive bright toy-like block game art.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-6295deaf-90a7-4a1a-a779-30429c5936a9.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Blue.png"
+    },
+    {
+      "color": "Red",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the RED color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into bright candy scarlet RED, center #FF5148, rich red lower bevel, pale coral highlights. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-ae47e400-2202-456b-8b2a-8500e1c234ff.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Red.png"
+    },
+    {
+      "color": "Green",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the GREEN color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into fresh vivid spring leaf GREEN, center #55DE35, saturated green lower bevel, pale lime highlights. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-560079c8-6aca-4a0f-8f7f-65254cc6631e.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Green.png"
+    },
+    {
+      "color": "Yellow",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the YELLOW color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into sunny bright golden YELLOW, center #FFE63D, warm gold lower bevel, pale lemon highlights. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-20fb0f66-1e3b-4f46-a677-3a7775d75284.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Yellow.png"
+    },
+    {
+      "color": "LightBlue",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the LIGHTBLUE color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into bright light sky CYAN BLUE (#68E6FF center), medium turquoise blue lower bevel, icy aqua highlights, clearly lighter than royal azure blue. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-49a174fd-8f3c-45cb-aaae-e22d42444001.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_LightBlue.png"
+    },
+    {
+      "color": "Orange",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the ORANGE color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into juicy bright tangerine ORANGE (#FFAD3C center), saturated warm orange lower bevel, peach/golden highlights, clearly orange not yellow. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-38cf9bf2-0c2e-4387-ac3b-161c101ad5f6.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Orange.png"
+    },
+    {
+      "color": "Pink",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the PINK color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into fresh candy hot PINK (#FF85C8 center), raspberry pink lower bevel, pale rose highlights. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-8e27f091-fb13-456d-97c0-fcde7891b9e2.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Pink.png"
+    },
+    {
+      "color": "Purple",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the PURPLE color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into bright candy VIOLET PURPLE (#BB88FF center), rich violet lower bevel, lavender highlights, clearly purple not blue. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-ee833c77-baae-42df-a60e-766d9d350f19.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Purple.png"
+    },
+    {
+      "color": "Brown",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the BROWN color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into bright warm caramel BROWN (#C88C60 center), toasted chestnut lower bevel, warm cream caramel highlights, clearly brown not orange, keep center light enough for black numerals. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-4b7dfaea-279c-45ce-a215-0bbebf41e62a.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_Brown.png"
+    },
+    {
+      "color": "White",
+      "prompt": "Edit reference: the glossy BLUE rounded square tile. Create the WHITE color variant for the SAME 10-color mobile puzzle block sprite set. Recolor every blue/cyan surface into pearly pure WHITE (#F3F7FF center), soft light silver-gray lower bevel, brilliant white highlights, neutral cool pearl with no blue body, keep center opaque and white. Preserve the front-facing perfectly square silhouette, bevel thickness, corner radius, large smooth evenly lit center for black HP numerals, and upper-left white glossy streak. Keep material very glossy polished candy plastic and colors fresh and bright. Single tile fills 92% of square canvas with equal transparent margins. Clean antialiased rounded-square silhouette with absolutely NO fringe, splatter, flecks, sparkles or disconnected pixels outside the tile. No text, no numerals, no icons, no border box, no shadow outside, no perspective. True transparent alpha background. All original blue must be replaced with the requested color.",
+      "source": "C:\\Users\\minia\\.codex\\generated_images\\01a15c23-b677-7182-a4ce-38e4fe652d7e\\exec-b4422932-acb3-4e12-83db-95ce33339f78.png",
+      "path": "Assets/Resources/GameScreenSkin/Block_White.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+PASS: Five offer packages followed by all 4 original direct Booster purchase controls.
+PASS: Booster Offer 1 frame, labels, discount, price and runtime action; 835.4 x 190.2 UI units.
+PASS: Booster Offer 2 frame, labels, discount, price and runtime action; 835.4 x 189.5 UI units.
+PASS: Booster Offer 3 frame, labels, discount, price and runtime action; 835.4 x 192.5 UI units.
+PASS: Booster Offer 4 frame, labels, discount, price and runtime action; 835.4 x 194.3 UI units.
+PASS: Booster Offer 5 frame, labels, discount, price and runtime action; 835.4 x 195.7 UI units.
+PASS: five original atlas frames, 43 editable labels and five buy controls; all text and controls remain inside their frames.
+PASS: retained Shop Item - KÍNH LÚP with its original frame, icon, title, price label and buy action.
+PASS: retained Shop Item - KÉO with its original frame, icon, title, price label and buy action.
+PASS: retained Shop Item - XÁO TRỘN with its original frame, icon, title, price label and buy action.
+PASS: retained Shop Item - LẤY VẬT THỂ with its original frame, icon, title, price label and buy action.
+PASS: compact direct booster grid; column gap 6.6, row gap 6.6 UI units; frames do not overlap.
+PASS: all 4 original direct purchases remain below the five offers and inside the scroll content.
+Validation did not invoke purchase actions, bind Home, change currency or save the scene.

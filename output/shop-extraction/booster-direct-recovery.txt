@@ -1,0 +1,2 @@
+PASS: all four restored direct booster cards and native frames retain their original child geometry, sprites, labels and button settings from the scene backup; blank offer templates are excluded.
+Preserved 8 text labels, 16 images and 4 purchase buttons; no temporary scene references.

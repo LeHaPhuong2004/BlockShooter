@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "911438968100-qdun9jhftakj1ndmp2q4nlol5fk94p7v.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZaMf8YfGddiPEw1YWPDrq9LRGidE06M"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:911438968100:ios:ea303ebef2ec054ae1afb1", 
+        "android_client_info": {
+          "package_name": "turbo.work.egg.shoot"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "egg-shoot-b3535.appspot.com", 
+    "project_id": "egg-shoot-b3535", 
+    "firebase_url": "https://egg-shoot-b3535.firebaseio.com", 
+    "project_number": "911438968100"
+  }
+}

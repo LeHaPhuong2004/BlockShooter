@@ -1,0 +1,5 @@
+PASS: 10 stable achievements in three increasing categories; exact thresholds, independent lifetime totals, reload persistence, all ten one-time rewards, save rollback and overflow limits.
+PASS: interrupted claims before receipt, before/partway/after wallet grant and final save recover the exact reward once; repeated recovery and reentrant callbacks cannot duplicate it.
+PASS: ten authored cards in five scrolling rows match the catalog and claim actions; isolated copies exercise every locked/ready/claimed state, clamped progress and summary counts. Real raycasts, wheel input and pointer dragging reach the final two cards without changing the authored scene.
+PASS: reloaded saved Home.unity in an isolated preview; actual runtime view creation and achievement page binding accept all ten native cards, with or without optional check/lock decorations. No decorations were recreated and the scene file was unchanged.
+No PlayerPrefs, player wallet, gameplay event, IAP service, or authored scene save was used.

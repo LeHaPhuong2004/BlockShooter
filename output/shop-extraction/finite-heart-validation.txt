@@ -1,0 +1,15 @@
+﻿PASS: Buying 5 hearts at full natural health preserves all 10 hearts.
+PASS: Buying another 20 hearts stacks without truncating the balance.
+PASS: Elapsed time preserves purchased overflow and does not regenerate above 5.
+PASS: Losing above the cap consumes one heart without starting regeneration.
+PASS: Dropping to exactly 5 hearts leaves regeneration paused.
+PASS: Dropping below 5 starts the ordinary 15 minute refill.
+PASS: Ordinary regeneration still stops at 5.
+PASS: A partial grant below the cap retains the active refill deadline.
+PASS: Buying across the cap clears the refill deadline.
+PASS: Finite grants preserve an active unlimited heart countdown.
+PASS: Unlimited hearts still prevent consuming the purchased balance.
+PASS: Unlimited expiry keeps the finite purchased balance.
+PASS: Zero and negative grants do not change the purchased balance.
+PASS: Integer overflow is rejected without damaging the heart balance.
+PASS: Corrupt negative balances are still normalized to zero.

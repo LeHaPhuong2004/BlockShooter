@@ -1,0 +1,6 @@
+PASS: single IAP owner; duplicate Awake/teardown preserves shared objects; all five real UI buttons unlock after stale/duplicate completion, repeated same/different packs, and popup dismissal.
+PASS: 13 isolated heart checks: 30/60/120 minutes, per-second/offline countdown, extension, expiry and normal recovery.
+PASS: isolated legacy migration, correct Booster rewards, persisted gameplay consumption and receipt replay protection.
+PASS: isolated 200-gold purchase, one-item durable reward, insufficient-gold rejection and inventory-save refund.
+PASS: isolated verified-store fulfillment, receipt replay rejection and recovery across inventory/wallet checkpoint interruptions.
+No real IAP service, receipt grant, PlayerPrefs, authored scene object, or scene save was used.

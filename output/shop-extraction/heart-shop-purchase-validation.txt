@@ -1,0 +1,5 @@
+PASS: exact 2,000/8,000-gold purchases, repeat purchases, insufficient/rejected debits, unsupported amounts and one-refund failed grants; no duplicated callbacks.
+PASS: 5/20-heart rewards and repeats preserve overflow across time and serialization; spending/recovery resumes below five; unlimited countdown and purchased stock remain intact.
+PASS: actual 2.000/8.000 numeric labels and purchase actions; heart flights target ENERGY without a success popup; booster gold starts at its package; effects stay above popups and do not block clicks.
+PASS: read-only authored Home preview: BUY 5 TIM [saved='MUA', runtime='2.000', Inspector callbacks=0]; BUY 20 TIM [saved='MUA', runtime='8.000', Inspector callbacks=0]; AudioManager 'AudioManager' active=True, coinCollect=coin. 
+No real purchase, player wallet, PlayerPrefs, audible playback, authoring helper, or scene save was used.

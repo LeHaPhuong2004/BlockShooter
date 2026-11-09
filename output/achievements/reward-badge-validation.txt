@@ -1,0 +1,5 @@
+PASS: original Home objects retained; one native reward badge per Missions/Achievements tab; repeated setup creates no duplicates.
+PASS: actual badge renderer hides zero, displays 3, updates to 1 after a reward, and hides again at zero.
+PASS: isolated daily mission counts are 0 before completion, 6 when complete, and 0 after all rewards are claimed.
+PASS: Home.unity saved; native badge artwork, fonts and anchors preserved, both zero-count badges hidden.
+No saved progress, PlayerPrefs, player wallet, claim action, or service was changed.

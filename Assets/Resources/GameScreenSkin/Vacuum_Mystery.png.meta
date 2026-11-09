@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 3f47b39139cae5d4b9487f01b04b129a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2771803386576473793
+    second: Vacuum_Mystery_0
+  - first:
+      213: 7022028402590647004
+    second: Vacuum_Mystery_1
+  - first:
+      213: 6229855073943647175
+    second: Vacuum_Mystery_2
+  - first:
+      213: -7557339433499385200
+    second: Vacuum_Mystery_3
+  - first:
+      213: 6471090944785890926
+    second: Vacuum_Mystery_4
+  - first:
+      213: 1780265249080430264
+    second: Vacuum_Mystery_5
+  - first:
+      213: 3408929605232830197
+    second: Vacuum_Mystery_6
+  - first:
+      213: 5780334339442030783
+    second: Vacuum_Mystery_7
+  - first:
+      213: 5563037458316253634
+    second: Vacuum_Mystery_8
+  - first:
+      213: 8224450099735582282
+    second: Vacuum_Mystery_9
+  - first:
+      213: -1533399488722846255
+    second: Vacuum_Mystery_10
+  - first:
+      213: -5307871995017287024
+    second: Vacuum_Mystery_11
+  - first:
+      213: -5268541976245914636
+    second: Vacuum_Mystery_12
+  - first:
+      213: 5932668150665318730
+    second: Vacuum_Mystery_13
+  - first:
+      213: 2514112523433901807
+    second: Vacuum_Mystery_14
+  - first:
+      213: -2495849029407178785
+    second: Vacuum_Mystery_15
+  - first:
+      213: -4311261909835817265
+    second: Vacuum_Mystery_16
+  - first:
+      213: 3690898378971149069
+    second: Vacuum_Mystery_17
+  - first:
+      213: -2350907815952061717
+    second: Vacuum_Mystery_18
+  - first:
+      213: -4971871875923007945
+    second: Vacuum_Mystery_19
+  - first:
+      213: -67189588012135371
+    second: Vacuum_Mystery_20
+  - first:
+      213: -9066048391254504537
+    second: Vacuum_Mystery_21
+  - first:
+      213: 5395962763945754470
+    second: Vacuum_Mystery_22
+  - first:
+      213: -6461169154663955385
+    second: Vacuum_Mystery_23
+  - first:
+      213: -2017676767074262988
+    second: Vacuum_Mystery_24
+  - first:
+      213: -3085158712721605895
+    second: Vacuum_Mystery_25
+  - first:
+      213: 7663062775298980035
+    second: Vacuum_Mystery_26
+  - first:
+      213: 2903616596134208479
+    second: Vacuum_Mystery_27
+  - first:
+      213: 3074592569260827155
+    second: Vacuum_Mystery_28
+  - first:
+      213: 6552386038775089393
+    second: Vacuum_Mystery_29
+  - first:
+      213: 1173830518090098712
+    second: Vacuum_Mystery_30
+  - first:
+      213: -1983768886600251567
+    second: Vacuum_Mystery_31
+  - first:
+      213: 6712250820275721656
+    second: Vacuum_Mystery_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1369.916
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vacuum_Mystery_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1242
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3172eb61839889d0800000000000000
+      internalID: -2771803386576473793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1239
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28e1bb0a1437160800000000000000
+      internalID: 7022028402590647004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 915
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3739cbe24e47650800000000000000
+      internalID: 6229855073943647175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 933
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092a73363dfee1790800000000000000
+      internalID: -7557339433499385200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 821
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb531ddeeedc950800000000000000
+      internalID: 6471090944785890926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 771
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4961dfc5c4b810800000000000000
+      internalID: 1780265249080430264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 771
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f627382a63fe4f20800000000000000
+      internalID: 3408929605232830197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 765
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb83f69c47fd73050800000000000000
+      internalID: 5780334339442030783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 767
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d1271811e33d40800000000000000
+      internalID: 5563037458316253634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 751
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465aab6acd132270800000000000000
+      internalID: 8224450099735582282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb8ef0a4548bae0800000000000000
+      internalID: -1533399488722846255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_11
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 656
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a20c7fa86a656b0800000000000000
+      internalID: -5307871995017287024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_12
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b0ad8cf062e6b0800000000000000
+      internalID: -5268541976245914636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a411eaa1042155250800000000000000
+      internalID: 5932668150665318730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_14
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 457
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee73ac050ce3e220800000000000000
+      internalID: 2514112523433901807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 377
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf7e250886fc5dd0800000000000000
+      internalID: -2495849029407178785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 345
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce509292225b24c0800000000000000
+      internalID: -4311261909835817265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_17
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 345
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03f3ac3584b83330800000000000000
+      internalID: 3690898378971149069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 240
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaec7a0cc5ef5fd0800000000000000
+      internalID: -2350907815952061717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 223
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736aad6fedc500bb0800000000000000
+      internalID: -4971871875923007945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 228
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8ee9fc6b411ff0800000000000000
+      internalID: -67189588012135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 43
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab06caa50dee2280800000000000000
+      internalID: -9066048391254504537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 15
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb8367b8f42ea40800000000000000
+      internalID: 5395962763945754470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 39
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7444b86f2e05556a0800000000000000
+      internalID: -6461169154663955385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_24
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430eaf2aba5cff3e0800000000000000
+      internalID: -2017676767074262988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faf6842f705f25d0800000000000000
+      internalID: -3085158712721605895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 15
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f6355efaa85a60800000000000000
+      internalID: 7663062775298980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3228009e7bb4820800000000000000
+      internalID: 2903616596134208479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e8dfd6a52baa20800000000000000
+      internalID: 3074592569260827155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 22
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f80b60e260ceea50800000000000000
+      internalID: 6552386038775089393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e54113a84a4010800000000000000
+      internalID: 1173830518090098712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15748b545bc3874e0800000000000000
+      internalID: -1983768886600251567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vacuum_Mystery_32
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5dbd9de84b62d50800000000000000
+      internalID: 6712250820275721656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vacuum_Mystery_0: -2771803386576473793
+      Vacuum_Mystery_1: 7022028402590647004
+      Vacuum_Mystery_10: -1533399488722846255
+      Vacuum_Mystery_11: -5307871995017287024
+      Vacuum_Mystery_12: -5268541976245914636
+      Vacuum_Mystery_13: 5932668150665318730
+      Vacuum_Mystery_14: 2514112523433901807
+      Vacuum_Mystery_15: -2495849029407178785
+      Vacuum_Mystery_16: -4311261909835817265
+      Vacuum_Mystery_17: 3690898378971149069
+      Vacuum_Mystery_18: -2350907815952061717
+      Vacuum_Mystery_19: -4971871875923007945
+      Vacuum_Mystery_2: 6229855073943647175
+      Vacuum_Mystery_20: -67189588012135371
+      Vacuum_Mystery_21: -9066048391254504537
+      Vacuum_Mystery_22: 5395962763945754470
+      Vacuum_Mystery_23: -6461169154663955385
+      Vacuum_Mystery_24: -2017676767074262988
+      Vacuum_Mystery_25: -3085158712721605895
+      Vacuum_Mystery_26: 7663062775298980035
+      Vacuum_Mystery_27: 2903616596134208479
+      Vacuum_Mystery_28: 3074592569260827155
+      Vacuum_Mystery_29: 6552386038775089393
+      Vacuum_Mystery_3: -7557339433499385200
+      Vacuum_Mystery_30: 1173830518090098712
+      Vacuum_Mystery_31: -1983768886600251567
+      Vacuum_Mystery_32: 6712250820275721656
+      Vacuum_Mystery_4: 6471090944785890926
+      Vacuum_Mystery_5: 1780265249080430264
+      Vacuum_Mystery_6: 3408929605232830197
+      Vacuum_Mystery_7: 5780334339442030783
+      Vacuum_Mystery_8: 5563037458316253634
+      Vacuum_Mystery_9: 8224450099735582282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+PASS: all original Home objects and the four existing achievement cards retained.
+PASS: no hierarchy outside the achievement page changed; repeated setup creates no objects.
+PASS: ten authored cards in five scrolling rows match the catalog and claim actions; isolated copies exercise every locked/ready/claimed state, clamped progress and summary counts. Real raycasts, wheel input and pointer dragging reach the final two cards without changing the authored scene.
+PASS: Home.unity saved; all ten cards and page top/bottom previews captured in output/achievements.
+Authoring and preview did not read or write PlayerPrefs, grant rewards or contact services.

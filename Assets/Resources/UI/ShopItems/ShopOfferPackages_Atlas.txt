@@ -1,0 +1,19 @@
+﻿Shop offer atlas, transparent PNG, source dimensions: 1024 x 1630
+Rows are extracted from the offer-card art; item art is replaced with the existing ShopItems sprites. Positions are x,y,width,height from top-left.
+Each row includes the matching existing gold pile/chest and the original magnifier, scissors, shuffle, and lift sprites. Medium, large, and special rows also include the unlimited-heart icon.
+PackageStarter: 18,12,988,220
+PackageSmall: 18,244,988,218
+PackageMedium: 18,476,988,218
+PackageLarge: 18,708,988,220
+PackageSpecial: 18,940,988,228
+UnlimitedHeartMedium: 857,510,132,148
+UnlimitedHeartLarge: 857,742,132,148
+UnlimitedHeartSpecial: 857,974,132,148
+Sale10: 46,1192,164,164
+Sale20: 236,1192,164,164
+Sale30: 426,1192,164,164
+Sale40: 616,1192,164,164
+Sale60: 806,1192,164,164
+PriceButton: 72,1380,350,150 (ShopBuyButton, aspect-preserving content inside rect)
+OldPriceHolder: 525,1408,330,78
+OldPriceStrike: 526,1538 to 855,1507

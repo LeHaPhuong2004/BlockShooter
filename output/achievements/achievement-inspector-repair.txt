@@ -1,0 +1,1 @@
+PASS: cleared stale selection and rebuilt Inspector targets; invalid trackers=0. No scene objects, assets or saved progress were changed.

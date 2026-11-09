@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: cfc592bd3aeca6ec45a630810403d04c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6951045553457486609
+    second: MainVacuum
+  - first:
+      213: -1341374152992648247
+    second: FullRug
+  - first:
+      213: 437086284475144366
+    second: MainNamePlateBlank
+  - first:
+      213: 5509391284502257679
+    second: MainActionButtonBlank
+  - first:
+      213: -3916569457542062413
+    second: ArrowLeft
+  - first:
+      213: 6104471461366876450
+    second: ArrowRight
+  - first:
+      213: 662534310397524370
+    second: SkinSelectedButtonBlank
+  - first:
+      213: -7432403117176015159
+    second: CheckIcon
+  - first:
+      213: 2196674342824293731
+    second: SkinPriceButtonBlank
+  - first:
+      213: -701132893279392933
+    second: CoinIcon
+  - first:
+      213: -3959501136887242271
+    second: SkinPinkButtonBlank
+  - first:
+      213: 5771185183410397508
+    second: LockPink
+  - first:
+      213: -6550678685696525861
+    second: SkinGreenButtonBlank
+  - first:
+      213: 8650313047398004320
+    second: LockGreen
+  - first:
+      213: 7139767916156067183
+    second: DecorStar01
+  - first:
+      213: -2563996362436852315
+    second: DecorStar02
+  - first:
+      213: 946741560052915829
+    second: DecorStar03
+  - first:
+      213: 8349931066431556771
+    second: DecorStar04
+  - first:
+      213: 5897305500102348887
+    second: DecorStar05
+  - first:
+      213: 2297906062582097977
+    second: DecorStar06
+  - first:
+      213: 389574199070446272
+    second: DecorStar07
+  - first:
+      213: 4202222062585140551
+    second: DecorStar08
+  - first:
+      213: -8397683012484657540
+    second: DecorStar09
+  - first:
+      213: 1003242451855546458
+    second: DecorStar10
+  - first:
+      213: -233816669818247981
+    second: DecorStar11
+  - first:
+      213: 6330073375290840011
+    second: SkinCardPurpleBlank
+  - first:
+      213: -1571050423428140569
+    second: SkinCardBlueBlank
+  - first:
+      213: -3309388953921849200
+    second: SkinCardPinkBlank
+  - first:
+      213: 5805851323140878113
+    second: SkinCardGreenBlank
+  - first:
+      213: -6859019443328364478
+    second: SkinCharacterPurple
+  - first:
+      213: -546260778516019506
+    second: SkinCharacterBlue
+  - first:
+      213: 2312883894575332194
+    second: SkinCharacterPink
+  - first:
+      213: -193806200286855674
+    second: SkinCharacterGreen
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainVacuum
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 450
+        width: 620
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f530c0cf95b7a4bdf20ef202835952d0
+      internalID: 6951045553457486609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullRug
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 765
+        width: 880
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb053474d4d732bc2dc4a311f7b7ebcd
+      internalID: -1341374152992648247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainNamePlateBlank
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 911
+        width: 455
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a08b143e45d5834268002f13562ff
+      internalID: 437086284475144366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainActionButtonBlank
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 781
+        width: 474
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c06d6a493fdd87092f61c4f9b0a941e
+      internalID: 5509391284502257679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowLeft
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 633
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564efb922021f480be849962e838aa8
+      internalID: -3916569457542062413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRight
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 632
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1691a918245509989c23da8f6e82b90
+      internalID: 6104471461366876450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinSelectedButtonBlank
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 655
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258f86cb1d30febea90caf9b6740a64
+      internalID: 662534310397524370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckIcon
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 676
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c88c00f28c453d71ff0692dfe3ebad7
+      internalID: -7432403117176015159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinPriceButtonBlank
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 665
+        width: 177
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8e696bc1a3414f270f2299ac91132
+      internalID: 2196674342824293731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIcon
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 675
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6f7e374c24939c618329b1f2f8502f
+      internalID: -701132893279392933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinPinkButtonBlank
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 667
+        width: 175
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8320121517b38bd8b5d0207366d12
+      internalID: -3959501136887242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LockPink
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 644
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f7a685d78d91c4540b6713f6f6c0b
+      internalID: 5771185183410397508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinGreenButtonBlank
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 670
+        width: 182
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8ebe254f36c5a06120b5998aa9d25
+      internalID: -6550678685696525861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LockGreen
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 643
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41686d63c451b4b54a34361e06916407
+      internalID: 8650313047398004320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar01
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 508
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ef33dc47a1f10f18d287120eab0b6
+      internalID: 7139767916156067183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar02
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 555
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c04935b7bf33880fd6931b0989cc0d2
+      internalID: -2563996362436852315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar03
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 569
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1f6c9b7b0cb3be7b99a942118ec2fe
+      internalID: 946741560052915829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar04
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 547
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ed0c57cda906ba59102ea1a38a9d16
+      internalID: 8349931066431556771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar05
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 573
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdbb70dff3aa82edc8ca7b3b0ecfb86
+      internalID: 5897305500102348887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar06
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 551
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37580a1e7bc2f23c881136bb2e64309a
+      internalID: 2297906062582097977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar07
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 570
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3d3b621fd0a03a8e9334f42129e45d
+      internalID: 389574199070446272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar08
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 579
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6fa9199f75f0c7b1602a4b1f3f807c
+      internalID: 4202222062585140551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar09
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 528
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f11f84634fcaaa55be63cb52d93806
+      internalID: -8397683012484657540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 568
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556552fdad5b3d935ba13b68164796e6
+      internalID: 1003242451855546458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DecorStar11
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 573
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead70cfd8c7d51b2caaccf201797f1d2
+      internalID: -233816669818247981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCardPurpleBlank
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 142
+        width: 220
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da376cf4a49d66e53919762d0885101
+      internalID: 6330073375290840011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCardBlueBlank
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 148
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aeb2285583fa0dd9d275cfec5f7f66
+      internalID: -1571050423428140569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCardPinkBlank
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 150
+        width: 199
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa834e0a9dda79ae271fe9dc27cd9397
+      internalID: -3309388953921849200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCardGreenBlank
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 150
+        width: 203
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c14ede43429be87a884b194f16833
+      internalID: 5805851323140878113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCharacterPurple
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 242
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac130a5c56a8e40af42f1ad0efa12b67
+      internalID: -6859019443328364478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCharacterBlue
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 243
+        width: 166
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b150f10a6e53f6af18c7307140fc0f
+      internalID: -546260778516019506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCharacterPink
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 242
+        width: 169
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461446470f5f268c0f160dc94ec39e8
+      internalID: 2312883894575332194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinCharacterGreen
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 242
+        width: 171
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48b4a6d4c379c64b04121af57b7d26d
+      internalID: -193806200286855674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 692e4833ca79afc4da51fd4df609a695
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArrowLeft: -3916569457542062413
+      ArrowRight: 6104471461366876450
+      CheckIcon: -7432403117176015159
+      CoinIcon: -701132893279392933
+      DecorStar01: 7139767916156067183
+      DecorStar02: -2563996362436852315
+      DecorStar03: 946741560052915829
+      DecorStar04: 8349931066431556771
+      DecorStar05: 5897305500102348887
+      DecorStar06: 2297906062582097977
+      DecorStar07: 389574199070446272
+      DecorStar08: 4202222062585140551
+      DecorStar09: -8397683012484657540
+      DecorStar10: 1003242451855546458
+      DecorStar11: -233816669818247981
+      FullRug: -1341374152992648247
+      LockGreen: 8650313047398004320
+      LockPink: 5771185183410397508
+      MainActionButtonBlank: 5509391284502257679
+      MainNamePlateBlank: 437086284475144366
+      MainVacuum: 6951045553457486609
+      SkinCardBlueBlank: -1571050423428140569
+      SkinCardGreenBlank: 5805851323140878113
+      SkinCardPinkBlank: -3309388953921849200
+      SkinCardPurpleBlank: 6330073375290840011
+      SkinCharacterBlue: -546260778516019506
+      SkinCharacterGreen: -193806200286855674
+      SkinCharacterPink: 2312883894575332194
+      SkinCharacterPurple: -6859019443328364478
+      SkinGreenButtonBlank: -6550678685696525861
+      SkinPinkButtonBlank: -3959501136887242271
+      SkinPriceButtonBlank: 2196674342824293731
+      SkinSelectedButtonBlank: 662534310397524370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
